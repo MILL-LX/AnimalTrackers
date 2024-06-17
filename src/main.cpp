@@ -185,7 +185,7 @@ void loop()
         {
           float distance = haversineDistance(coordinates[i].latitude, coordinates[i].longitude, currentLat, currentLon);
 
-          if (distance < 50)
+          if (distance < 100)
           {
             if (!insideZone)
             {
