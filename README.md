@@ -33,9 +33,10 @@ The module used in this system is the **L76K GNSS Module** ( [Link to the websit
 ![XIAO GNSS module](https://files.seeedstudio.com/wiki/Seeeduino-XIAO-Expansion-Board/GPS_Module/L76K/1-L76K-GNSS-Module-for-Seeed-Studio-XIAO-45font.jpg)
 
 ### MP3 module
-The module responsible to play the animal sounds consists of two components: the **DFPlayer Pro** ( [Link to the website!](https://www.dfrobot.com/product-2232.html) ) and the speaker connected to it.
+The module responsible to play the animal sounds consists of three components: the **DFPlayer Pro** ( [Link to the website!](https://www.dfrobot.com/product-2232.html) ), the capacitive button ( [Link to website!](https://www.adafruit.com/product/1374) ) and the speaker connected to it.
 
 ![DFROBOT MP3 module](https://dfimg.dfrobot.com/store/data/DFR0768/DFR0768.jpg)
+![DAFRUIT Standalone Momentary Capacitive Touch Sensor Breakout](https://cdn-shop.adafruit.com/970x728/1374-07.jpg)
 
 The speaker to connect to the *MP3 player* can be any speaker.
 
